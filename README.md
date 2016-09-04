@@ -8,3 +8,9 @@
 ## Authors:
 * Adam Becker
 * Franco N. Bellomo
+
+## Plots
+The following plots are not definitive. still they need a lot of work
+
+* [Download for coordinates](https://fnbellomo.github.io/Sci-Hub-Analisys/)
+* [Download for coordinates v2](https://fnbellomo.github.io/Sci-Hub-Analisys/mapv2.html)

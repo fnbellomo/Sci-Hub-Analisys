@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# For Ipython
+.ipynb_checkpoints/
+
+# C extensions
+*.so
+
+# For emacs
+*~
+\#*
+.#*
+
+# Ingore data directory
+# because is very big
+data/
